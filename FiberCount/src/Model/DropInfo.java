@@ -64,9 +64,4 @@ public class DropInfo {
 	public void setFiberColor(String fiberColor) {
 		this.fiberColor = fiberColor;
 	}
-	
-	
-	
-	
-
 }
