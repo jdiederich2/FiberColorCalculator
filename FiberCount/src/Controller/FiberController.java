@@ -141,12 +141,12 @@ public class FiberController {
 	        	return "Black";
 	        case 9: 
 	        	return "Yellow";
-			case 10:
-				return "Violet";
-			case 11: 
-				return "Rose";
-			case 12: 
-				return "Aqua";
+		case 10:
+			return "Violet";
+		case 11: 
+			return "Rose";
+		case 12: 
+			return "Aqua";
 	        default:
 	            return "Invalid";
 	    }
